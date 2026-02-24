@@ -1,0 +1,124 @@
+Package: katana
+Version: 1.2.2
+Architecture: all
+Maintainer: Alienkrishn [Anon4You] 
+Depends: golang, git
+Section: utils
+Priority: optional
+Homepage: https://github.com/projectdiscovery/katana
+Description: A next-generation crawling and spidering framework
+ Katana is a fast, customizable web crawling framework written in Go.
+ It's designed for both security researchers and penetration testers
+ for comprehensive web reconnaissance and asset discovery.
+Filename: dists/termux/main/binary-all/katana.deb
+Size: 1564
+MD5Sum: b63826bbe336f81b41a3eb41e3d4b4fe
+SHA1: 9f72f8ca85c01c1c886c8cc9082f27c53b1e4d08
+SHA256: ebc4e4de34263be4bf2680b578f3b2abdb31d097e00e077c096aba2e5e145428
+SHA512: 259049ab41c16c42f2800d3fbb2305d3101531e5ddfdfc4dca9affd0d989cbf8bbd1dca52e1edb8d5ff94aa2a94024688512de8eefbd271437bfda6189a04cba
+
+Package: phonesploit-pro
+Version: 1.61
+Architecture: all
+Maintainer: Alienkrishn [Anon4You] 
+Depends: git, python, android-tools, nmap, which, scrcpy
+Section: security
+Priority: optional
+Homepage: https://github.com/AzeemIdrisi/PhoneSploit-Pro
+Description: Android hacking tool with ADB
+ Exploit Android devices via ADB with 20+ attack vectors.
+ Supports both USB and wireless ADB connections.
+Filename: dists/termux/main/binary-all/phonesploit-pro.deb
+Size: 1352
+MD5Sum: 8c7475f0171824b19d93d456c0037bdb
+SHA1: ceface51e6cd42302665d74b09f73ec6d22bcab4
+SHA256: b96a2165ae5bbc9c8913d59ca4f2f5fd15e0155d3379e3fb4916387df4ac7a01
+SHA512: 1ce17f5c624026e68521da84efbad2a5d63fe6dc9519619d4985b63c672087dea7b23da16f4477f69c37a57388a923c19e38001980a2af7c07980c44cc88e5fd
+
+Package: random-banner
+Architecture: all
+Version: 1
+Maintainer: Alienkrishn [Anon4You]
+Depends: git
+Installed-Size: 1
+Homepage: https://github.com/Alienkrishn/random_banners
+Description: random banner and quote
+Filename: dists/termux/main/binary-all/random-banner.deb
+Size: 916
+MD5Sum: a36977f45674b2f0abb0db2646eda47c
+SHA1: 6c556defe4c576cd55a5accf684fddfc0a0e3ce8
+SHA256: 1391e95da6782d32fd781087cb45501e0089567dca1d24d1e6391e0bb42d4fa2
+SHA512: e19138dda73d105dd4c15d3fbbd2c89d705156c315d8e28926ab645e3f8edc882300538effac92cfa54a9cd2d87805d3cbc1302d336f08dddb9b0a455c179b00
+
+Package: sherlock
+Version: 0.16.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: python, python-pip, python-numpy, python-pandas
+Section: social
+Priority: optional
+Homepage: https://sherlockproject.xyz
+Description: Hunt down social media accounts by username
+ Sherlock is a tool for finding usernames across social networks.
+ Useful for OSINT investigations and social media reconnaissance.
+Filename: dists/termux/main/binary-all/sherlock.deb
+Size: 948
+MD5Sum: 5bc5a9bb7ca9fe3eb7fbca59b12218fb
+SHA1: 2143cc04533b682ab9114b7107ee11e887df2175
+SHA256: 48d402787053f967c06d5c23cacd54ba5bed7a51b3286e593ed87c9b930f32b7
+SHA512: 17cc66daf12facea00d5c2d76b57063153c2e5936b3e4bb3557639606b69cd67d5ad616ad1db70d4d37abb8b7372279ef925d1278ec8ceecdce4e2fefb21c17f
+
+Package: storm-breaker
+Version: 1.0
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: git, python, php
+Section: security
+Priority: optional
+Homepage: https://github.com/ultrasecurity/Storm-Breaker
+Description: Social Engineering Toolkit
+ Advanced phishing tool with:
+ - Multiple attack vectors
+ - Credential harvesting
+ - Automated payload generation
+Filename: dists/termux/main/binary-all/storm-breaker.deb
+Size: 1312
+MD5Sum: 3eb5219efa0fc85f6c47b313aa435df0
+SHA1: d101f9cb52b5bbc4284e0eef3cc294b89fa6165c
+SHA256: a93d3ae38b78d02965d4924c2a917f2f362634bd14b67633815e942633001acb
+SHA512: 02ae01d044040918c5bef88d52367011f02ce756f986e605480a54b898a52907093f6f8773a3de62ab7ce5ca1a1758ec315a979a9d5b15afec13e9641f53495d
+
+Package: theharvester
+Version: 4.8.2
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Depends: proot, tar, axel, nethunter-cli
+Section: recon
+Priority: optional
+Homepage: https://github.com/laramies/theHarvester
+Description: E-mail, Subdomain, and Name Harvester
+ theHarvester is a tool for gathering e-mails, subdomains, hosts,
+ employee names, open ports and banners from different public sources
+ like search engines, PGP key servers, and SHODAN database.
+Filename: dists/termux/main/binary-all/theharvester.deb
+Size: 1656
+MD5Sum: 0c24f699a0aa4da7f3c94e9f01904aab
+SHA1: ddf39c8bf740db313ab7e09e9747b5933e62f4ff
+SHA256: dd8154b1b5f0bc2967e5a2b5cdf62874308877131ba02c4021391581001c52ea
+SHA512: 8370ab7ea5fb0e9210b65d73a1761d42fe9a18273d598497c2fd53912aea2d98739e17368b8525740c0ba4faa13843d515c57cbd494c69a024d9036899c9bf42
+
+Package: websploit
+Version: 4.0.5
+Architecture: all
+Maintainer: Alienkrishn [Anon4You]
+Installed-Size: 1
+Depends: python, python-pip, git, python-numpy 
+Homepage: https://github.com/The404Hacking/websploit
+Description: Advanced MITM framework.
+Filename: dists/termux/main/binary-all/websploit.deb
+Size: 1572
+MD5Sum: 3a28e9e46e0a6b77ed162cf798d21f9f
+SHA1: 15a389321d496b5d1d62305b3b7ab3e7c821ef63
+SHA256: c783f6cdb2c259991d328e230e5513ff26940eeff3d40f1b03d6baf11868b4fd
+SHA512: d8aeb7609624e0f794108d042c53514ab0428a228142d6df26f85bb3cb246aeb94ea4cdfab167b5a36c1597f068b7bd69d5c6770d9c4fce445fd90c123c92832
+

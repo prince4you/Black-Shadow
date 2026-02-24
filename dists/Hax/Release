@@ -1,0 +1,27 @@
+Codename: termux
+Version: 1
+Architectures: all
+Description: Hax repository
+Suite: Hax
+Date: Tue, 24 Feb 2026 07:14:55 UTC
+Components: main
+MD5Sum:
+ 6218010b643ae5f4fb240cdaa73ac27d 5067 main/binary-all/Packages
+ 0c9fbad19fea3201746b66172391ba43 2380 main/binary-all/Packages.xz
+ 98b8d7a99134165e9973918de1567f1a 91 main/Contents-all
+ 34521b1fafc006d3f5135360ca7e1027 128 main/Contents-all.xz
+SHA1:
+ 851fe8dc6a6c4baa4d32c8bfd059baafcc0b7d79 5067 main/binary-all/Packages
+ 86c521681eacb20615f28adfec7a1943d554b2c3 2380 main/binary-all/Packages.xz
+ 0f62aaca4afc47dc1ce847180087c0babfa5234e 91 main/Contents-all
+ 23940875b13fc2360ff7d30f4d37e3a6d6788ac5 128 main/Contents-all.xz
+SHA256:
+ eebf5384e35bcdcfbf64d0e4fef178950d4ef963dcebfca9d38ca6bd619ad798 5067 main/binary-all/Packages
+ 0c7136c0e46e8df289e9506eb7ff0ab2277ccd0588a0f12c6d06043ffd6b3d08 2380 main/binary-all/Packages.xz
+ f2384cf2f219a409f3de7dc272bfa5796c66020d7a81992db0e39551c47900fe 91 main/Contents-all
+ 8b98475e33987448b83a9c96bc9230427f899a5c0286f87d5fd99656e87726b3 128 main/Contents-all.xz
+SHA512:
+ 92d57d4d386bf871f013c13fe5f83f3f5296d740e29aab7be83cda1714b0961748fd84235b38a0665e8f52b353bc4d35935295d4f0fb6e6bc8c5279200a44859 5067 main/binary-all/Packages
+ e3714709d95c0d3d344efc99d8ba61ed8b4a2b4e3b8e2840dfd4f552520acfafafa42fe2bd0d652f71617c7813828ddf05751f1e7e8d5804e84411f46a2a7f9f 2380 main/binary-all/Packages.xz
+ f5137bcd20b74bc4e2d801dd6e3e39f1859dc91d22ad94852420e14d31d33ccf630decc683c6ab8b4198dcce7a1a29d75bd44592365d32391078ea773ad65e2f 91 main/Contents-all
+ 8907cb7cebfe78c6bf85fb6c699741ef2143fc19ca551531f8f0c407409ced278585e069f144f654a8b528383fcfcf273f604c30ead21877d10c2231fe7f9868 128 main/Contents-all.xz
